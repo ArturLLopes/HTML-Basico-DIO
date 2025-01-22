@@ -1,6 +1,7 @@
 # Exemplos de Tags HTML
 
 Este repositório apresenta um exemplo simples de aplicação de diversas tags HTML para estruturação e estilização de conteúdo. O arquivo principal é um documento HTML com exemplos comentados para cada tag descrita.
+Projeto feito pra a Formação HTML Developer dos cruso da DIO.me.
 
 ## Tags Incluídas
 As seguintes tags HTML foram demonstradas:
